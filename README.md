@@ -4,20 +4,12 @@ A modern and responsive Random Password Generator built using **HTML**, **CSS**,
 
 ## 🚀 Live Demo
 
-> Add your deployed link here (GitHub Pages/Netlify/Vercel)
-
-Example:
-```
-https://your-username.github.io/Password-Generator/
-```
+https://password-generator-rho-sand-85.vercel.app/
 
 ---
 
 ## 📸 Preview
 
-> Add a screenshot of your project here.
-
-Example:
 
 ![Project Preview](preview.png)
 
@@ -77,17 +69,6 @@ Simply open `index.html`
 
 or use VS Code Live Server.
 
----
-
-## 📷 Screenshot
-
-Add your project screenshot inside the repository and rename it to:
-
-```
-preview.png
-```
-
-Then GitHub will automatically display it.
 
 ---
 
