@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Inter", sans-serif;
+  background: #1f2937;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.container {
+  width: 550px;
+  padding: 60px 50px;
+}
+h1 {
+  font-size: 56px;
+  line-height: 60px;
+  font-weight: 800;
+}
+h1 span {
+  color: #4adf86;
+}
+p {
+  margin-top: 15px;
+  color: #d5d4d8;
+  font-size: 24px;
+}
+button {
+  margin-top: 55px;
+  background: #10b981;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 16px 28px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+button:hover {
+  background: #059669;
+}
+hr {
+  margin: 45px 0;
+  border: none;
+  border-top: 2px solid #2f3e53;
+}
+.passwords {
+  display: flex;
+  gap: 24px;
+}
+.password-box {
+  flex: 1;
+  height: 55px;
+  background: #273549;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #55f991;
+  font-size: 22px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.password-box:hover {
+  transform: translateY(-3px);
+  background: #324763;
+}
