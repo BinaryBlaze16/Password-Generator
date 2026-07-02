@@ -3,9 +3,9 @@
 A modern and responsive Random Password Generator built using **HTML**, **CSS**, and **JavaScript**. Generate strong, secure passwords instantly with a single click.
 
 ## 🚀 Live Demo
-
+```
 https://password-generator-rho-sand-85.vercel.app/
-
+```
 ---
 
 ## 📸 Preview
